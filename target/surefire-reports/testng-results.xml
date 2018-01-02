@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="171524" started-at="2017-12-31T19:53:58Z" finished-at="2017-12-31T19:56:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="171524" started-at="2017-12-31T19:53:58Z" finished-at="2017-12-31T19:56:50Z">
+      <class name="Demo1.Excelforjenkins.Gmail">
+        <test-method status="PASS" signature="loadingexcelsheet()" name="loadingexcelsheet" duration-ms="171441" started-at="2017-12-31T19:53:58Z" finished-at="2017-12-31T19:56:50Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
